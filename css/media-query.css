@@ -1,4 +1,96 @@
-@media (min-height: 411px) {
+@media (min-width: 320px) {
+
+    #title {
+
+        width: 350px;
+
+    }
+
+    figure {
+
+        width: 95%;
+        height: 310px;
+
+        font-size: 14px;
+        line-height: 25px;
+
+    }
+
+    #img {
+
+        width: 95%;
+
+    }
+
+    #img-caption {
+
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    #tribute-info {
+
+        width: 300px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -30px;
+
+    }
+
+    #tribute-info li {
+
+        width: 300px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 320px;
+        margin-left: -5px;
+        margin-bottom: 50px;
+        line-height: 25px;
+
+    }
+
+}
+
+@media (min-width: 350px) {
+
+    #tribute-info {
+
+        width: 250px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -30px;
+
+    }
+
+    #tribute-info li {
+
+        width: 230px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 250px;
+        margin-left: -20px;
+        margin-bottom: 50px;
+        line-height: 25px;
+        text-align: left;
+
+    }
+
+}
+
+@media (min-width: 411px) {
 
     #title {
 
@@ -58,50 +150,79 @@
 
 }
 
-@media (min-height: 350px) {
+@media (min-width: 480px) {
 
-    #tribute-info {
+    figure {
 
-        width: 250px;
-
-    }
-
-    #tribute-info ul {
-        
-        margin-left: -30px;
-
-    }
-
-    #tribute-info li {
-
-        width: 230px;
-
-    }
-
-    #tribute-info blockquote {
-
-        width: 250px;
-        margin-left: -20px;
-        margin-bottom: 50px;
-        line-height: 25px;
-        text-align: left;
+        height: 350px;
 
     }
 
 }
 
-@media (min-height: 320px) {
+@media (min-width: 600px) {
+
+    figure {
+
+        width: 91%;
+        height: 400px;
+
+        font-size: 14px;
+        line-height: 25px;
+
+    }
+
+    #img-caption {
+
+        font-size: 16px;
+
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    #tribute-info {
+
+        width: 490px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -20px;
+
+    }
+
+    #tribute-info li {
+
+        width: 490px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 530px;
+        margin-left: -25px;
+        margin-bottom: 50px;
+        line-height: 25px;
+        font-weight: 400;
+
+    }
+
+}
+
+@media (min-width: 768px) {
 
     #title {
 
-        width: 350px;
+        width: 768px;
 
     }
 
     figure {
 
-        width: 95%;
-        height: 310px;
+        width: 91%;
+        height: 480px;
 
         font-size: 14px;
         line-height: 25px;
@@ -116,6 +237,8 @@
 
     #img-caption {
 
+        font-size: 16px;
+
         padding-left: 10px;
         padding-right: 10px;
 
@@ -123,28 +246,164 @@
 
     #tribute-info {
 
-        width: 300px;
+        width: 650px;
 
     }
 
     #tribute-info ul {
         
-        margin-left: -30px;
+        margin-left: 50px;
 
     }
 
     #tribute-info li {
 
-        width: 300px;
+        width: 550px;
 
     }
 
     #tribute-info blockquote {
 
-        width: 320px;
-        margin-left: -5px;
+        width: 550px;
+        margin-left: 70px;
         margin-bottom: 50px;
+
         line-height: 25px;
+        font-weight: 400;
+
+    }
+
+}
+
+@media (min-width: 800px) {
+
+    #main {
+        
+        font-size: 20px;
+
+    }
+
+    #title {
+
+        width: 800px;
+        font-size: 50px;
+
+    }
+
+    figure {
+
+        width: 98%;
+        height: 530px;
+
+        font-size: 14px;
+        line-height: 25px;
+
+    }
+
+    #img {
+
+        width: 95%;
+
+    }
+
+    #img-caption {
+
+        font-size: 20px;
+
+        padding-left: 70px;
+        padding-right: 70px;
+
+    }
+
+    #tribute-info {
+
+        width: 700px;
+
+    }
+
+    #tribute-info h3 {
+
+        font-size: 26px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -20px;
+        font-size: 22px;
+
+    }
+
+    #tribute-info li {
+
+        width: 700px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 700px;
+        margin-left: -20px;
+        margin-bottom: 50px;
+
+        line-height: 25px;
+        font-weight: 400;
+        font-size: 22px;
+
+    }
+
+}
+
+@media (min-width: 1024px) {
+
+    #main {
+            
+        font-size: 16px;
+
+    }
+
+    #title {
+
+        width: 800px;
+        font-size: 50px;
+
+    }
+
+    figure {
+
+        width: 98%;
+        height: 680px;
+
+        font-size: 14px;
+        line-height: 25px;
+
+    }
+
+    #img {
+
+        width: 98%;
+
+    }
+
+    #img-caption {
+
+        font-size: 16px;
+
+        padding-left: 30px;
+        padding-right: 30px;
+
+    }
+
+    #tribute-info h3 {
+
+        font-size: 22px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -20px;
+        font-size: 16px;
 
     }
 
