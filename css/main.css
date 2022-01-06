@@ -1,6 +1,7 @@
 body {
 
     background-color: #EEEEEE;
+    color: #333333;
 
 }
 
@@ -17,13 +18,11 @@ body {
 header {
 
     text-align: center;
-    font-weight: 300;
 
 }
 
-h1 {
+#title {
 
-    color: #333333;
     font-size: 40px;
 
 }
@@ -39,10 +38,9 @@ figure {
 
 }
 
-figcaption {
+#img-caption {
 
     margin-top: 15px;
-    font-weight: 300;
 
 }
 
@@ -54,8 +52,8 @@ figcaption {
 
 #tribute-info ul {
 
-    text-align: center;
     margin-top: 50px;
+    margin-left: 100px;
 
 }
 
@@ -68,7 +66,6 @@ figcaption {
 
     margin-bottom: 20px;
 
-    font-weight: 300;
     line-height: 25px;
 
 }
@@ -79,9 +76,11 @@ blockquote {
 
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 120px;
 
     line-height: 30px;
 
+    text-align: justify;
     font-style: italic;
     font-weight: 300;
 
