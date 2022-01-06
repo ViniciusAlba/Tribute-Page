@@ -394,6 +394,12 @@
 
     }
 
+    #tribute-info {
+
+        width: 550px;
+
+    }
+
     #tribute-info h3 {
 
         font-size: 22px;
@@ -405,6 +411,208 @@
         margin-left: -20px;
         font-size: 16px;
 
+    }
+
+    #tribute-info li {
+
+        width: 550px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 550px;
+        margin-left: 0;
+        margin-bottom: 50px;
+
+        line-height: 25px;
+        font-weight: 400;
+        font-size: 16px;
+
+    }
+
+}
+
+@media (min-width: 1280px) {
+    
+    #main {
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+        font-family: 'Roboto', sans-serif;
+    
+    }
+    
+    header {
+    
+        text-align: center;
+    
+    }
+    
+    #title {
+    
+        font-size: 50px;
+    
+    }
+    
+    figure {
+    
+        width: 98%;
+        height: 680px;
+    
+        text-align: center;
+    
+        background-color: #FFFFFF;
+    
+    }
+
+    #img {
+
+        width: 1024px;
+
+    }
+    
+    #img-caption {
+    
+        margin-top: 15px;
+    
+    }
+    
+    #tribute-info {
+    
+        text-align: center;
+        width: 100%;
+    
+    }
+    
+    #tribute-info ul {
+    
+        margin-top: 50px;
+        margin-left: 300px;
+    
+    }
+    
+    
+    #tribute-info li {
+    
+        width: 550px;
+    
+        text-align: start;
+    
+        margin-bottom: 20px;
+    
+        line-height: 25px;
+    
+    }
+    
+    blockquote {
+    
+        width: 550px;
+    
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding-left: 320px;
+    
+        line-height: 30px;
+    
+        text-align: justify;
+        font-style: italic;
+        font-weight: 300;
+    
+    }
+
+}
+
+@media (min-width: 1290px) {
+
+    #main {
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+        font-family: 'Roboto', sans-serif;
+    
+    }
+    
+    header {
+    
+        text-align: center;
+    
+    }
+    
+    #title {
+    
+        font-size: 50px;
+    
+    }
+    
+    figure {
+    
+        width: 98%;
+        height: 680px;
+    
+        text-align: center;
+    
+        background-color: #FFFFFF;
+    
+    }
+
+    #img {
+
+        width: 1024px;
+
+    }
+    
+    #img-caption {
+    
+        margin-top: 15px;
+    
+    }
+    
+    #tribute-info {
+    
+        text-align: center;
+        width: 100%;
+    
+    }
+    
+    #tribute-info ul {
+    
+        margin-top: 50px;
+        margin-left: 600px;
+    
+    }
+    
+    
+    #tribute-info li {
+    
+        width: 550px;
+    
+        text-align: start;
+    
+        margin-bottom: 20px;
+    
+        line-height: 25px;
+    
+    }
+    
+    blockquote {
+    
+        width: 550px;
+    
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding-left: 620px;
+    
+        line-height: 30px;
+    
+        text-align: justify;
+        font-style: italic;
+        font-weight: 300;
+    
     }
 
 }
