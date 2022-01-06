@@ -1,0 +1,88 @@
+body {
+
+    background-color: #EEEEEE;
+
+}
+
+#main {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+header {
+
+    text-align: center;
+    font-weight: 300;
+
+}
+
+h1 {
+
+    color: #333333;
+    font-size: 40px;
+
+}
+
+figure {
+
+    width: 100%;
+    height: 680px;
+
+    text-align: center;
+
+    background-color: #FFFFFF;
+
+}
+
+figcaption {
+
+    margin-top: 15px;
+    font-weight: 300;
+
+}
+
+#tribute-info {
+
+    text-align: center;
+
+}
+
+#tribute-info ul {
+
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+
+#tribute-info li {
+
+    width: 550px;
+
+    text-align: start;
+
+    margin-bottom: 20px;
+
+    font-weight: 300;
+    line-height: 25px;
+
+}
+
+blockquote {
+
+    width: 550px;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    line-height: 30px;
+
+    font-style: italic;
+    font-weight: 300;
+
+}
