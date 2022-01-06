@@ -1,0 +1,151 @@
+@media (min-height: 411px) {
+
+    #title {
+
+        width: 400px;
+
+    }
+
+    figure {
+
+        width: 91%;
+        height: 330px;
+
+        font-size: 14px;
+        line-height: 25px;
+
+    }
+
+    #img {
+
+        width: 95%;
+
+    }
+
+    #img-caption {
+
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    #tribute-info {
+
+        width: 350px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -10px;
+
+    }
+
+    #tribute-info li {
+
+        width: 330px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 350px;
+        margin-left: -10px;
+        margin-bottom: 50px;
+        line-height: 25px;
+
+    }
+
+}
+
+@media (min-height: 350px) {
+
+    #tribute-info {
+
+        width: 250px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -30px;
+
+    }
+
+    #tribute-info li {
+
+        width: 230px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 250px;
+        margin-left: -20px;
+        margin-bottom: 50px;
+        line-height: 25px;
+        text-align: left;
+
+    }
+
+}
+
+@media (min-height: 320px) {
+
+    #title {
+
+        width: 350px;
+
+    }
+
+    figure {
+
+        width: 95%;
+        height: 310px;
+
+        font-size: 14px;
+        line-height: 25px;
+
+    }
+
+    #img {
+
+        width: 95%;
+
+    }
+
+    #img-caption {
+
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    #tribute-info {
+
+        width: 300px;
+
+    }
+
+    #tribute-info ul {
+        
+        margin-left: -30px;
+
+    }
+
+    #tribute-info li {
+
+        width: 300px;
+
+    }
+
+    #tribute-info blockquote {
+
+        width: 320px;
+        margin-left: -5px;
+        margin-bottom: 50px;
+        line-height: 25px;
+
+    }
+
+}
