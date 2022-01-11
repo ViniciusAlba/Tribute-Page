@@ -3,7 +3,7 @@ A challenge from Free Code Camp - Responsive Web Design (Tribute Page)
 
 
 
-## What I use to did this challenge
+## What I used to make this challenge
 HTML, CSS
 
 
